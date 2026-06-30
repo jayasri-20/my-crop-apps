@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+pillow
+plotly
+joblib
+catboost
+speechrecognition
+gtts
