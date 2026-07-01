@@ -8,3 +8,4 @@ joblib
 catboost
 speechrecognition
 gtts
+python-dotenv
